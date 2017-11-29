@@ -2,7 +2,6 @@
 
 /* Comment */
 
-
 /* CSS Syntax
 
 selector {
@@ -33,4 +32,11 @@ figcaption {
   font: bold 2.6em Elsie, cursive;
   color: #fff;
   text-shadow: 0 2px 3px #000;
+}
+
+
+/* ID selector */
+
+#logo {
+  background-color: #01bcc1;
 }
