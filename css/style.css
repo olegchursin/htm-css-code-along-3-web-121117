@@ -26,4 +26,11 @@ figcaption {
   text-align: right;
 }
 
+
 /* Class selctors */
+
+.milk-text {
+  font: bold 2.6em Elsie, cursive;
+  color: #fff;
+  text-shadow: 0 2px 3px #000;
+}
